@@ -1,0 +1,7 @@
+Deliverables:
+description of what to deliver -- by due date (estimated time to complete)
+
+Design Document                               -- by 3/7/2017          (2 Hours)      Finished
+Main character design w/ out animation        -- by 3/8/2017          (6 Hours)      In Progress
+Enemy design w/ out animation                 -- by 3/9/2017          (6 Hours)      In Progress
+Level layout (town, danger zone, cavern)      -- by 3/9/2017          (5 Hours)      In Progress
