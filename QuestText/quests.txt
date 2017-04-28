@@ -1,0 +1,52 @@
+Farmer
+Welcome to the tutorial.
+Lets see how your legs are moving.
+Use A to turn left, use D to turn right, use W to go forward, and use S to go backward.
+As you have already seen, use F to interact with things in the world.
+Go to the glowing orb and interact with it, i've never been able to reach it maybe you can.
+Go to the jump pad and press space on it to jump to get there.
+Farmer
+
+Glowing Orb
+Hello mortal.
+Use the left click to attack things and use the right click to defend your self from attacks.
+Now do my bidding and attack the weakling farmer.
+Glowing Orb
+
+Villager
+Oh hello, traveler.
+I have lost an item of great value to me.
+I have lost my hoe, and without it I cannot make a living.
+When I last remembered, I was on an island about to take a relaxing swim.
+The farm would be barron without it.
+Can you please look around and tell me where it is?
+#
+Oh wow, you found the darn thing. 
+I always lose this old gal.
+Thanks for getting it back for me.
+Here is your reward, I hope it is enough
+Villager
+
+Brother
+Hi friend!
+I have been noticing that my crops are being destroyed by some rowdy cave people.
+Can you go take care of it and knock some sense into them?
+#
+Woah man, I said knock some sense into them, not kill them.
+What if they had lives and families?
+I suppose you did fulfill my request though.
+Here is your reward, I hope it is enough.
+Brother
+
+Boy
+Hi, mister.
+My mommy has been telling me stories about lands that have not been explored yet.
+I hear stories that there are 4 islands that you can get to from here.
+I could never explore them because mommy won't let me outside the village.
+Golly mister, can you go explore them and tell me about it some day?
+I hear there is a cool sword out there somewhere.
+#
+IGNORE THIS LINE
+Wow mister, that sword is awesome!
+Thanks for telling me stories.
+Boy
